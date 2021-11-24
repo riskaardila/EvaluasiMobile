@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My App V2</string>
+    <string name="konversi_rupiah">Konversi Rupiah</string>
+    <string name="konversi_suhu">Konversi Suhu</string>
+    <string name="nilai_rupiah">Nilai Rupiah</string>
+    <string name="cek">Cek</string>
+    <string name="hasil">Hasil</string>
+    <string name="inputkan_nilai_dolar">Inputkan Nilai Rupiah:</string>
+    <string name="cek_suhu">Cek Suhu</string>
+    <string name="calcius">__ calcius</string>
+    <string name="hasil_fahrenheit">Hasil Fahrenheit</string>
+    <string name="hasil_reamus">Hasil Reamus</string>
+    <string name="hasil_kelvin">Hasil Kelvin</string>
+</resources>
